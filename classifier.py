@@ -123,6 +123,7 @@ class Classifier:
                 if word in train_model["word"].values:
                     
                     _word = train_model[train_model["word"] == word]
+                    
                     word_pos = _word["positive_prob"].values[0]
                     word_neg = _word["negative_prob"].values[0]
 
