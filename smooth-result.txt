@@ -1,638 +1,639 @@
-No.0 This is how it should be.
--26.957731539552377, -28.95804692146052, positive, positive, right
-No.1 "The greatest trick the Devil ever pulled was convincing the world he didn't exist."
--120.76312674336342, -126.45427023795672, positive, positive, right
-No.2 Wooww
--15.159071968673794, -17.08685765404511, positive, positive, right
-No.3 Again, well done
--92.57872453679052, -95.41440861330872, positive, positive, right
-No.4 No, Islam does not want you to blow yourself nor others up.
--167.93824619985477, -168.09477494730444, positive, positive, right
-No.5 Pretty great episode, broh!
--286.476586364734, -298.6412944294471, positive, positive, right
-No.6 What a masterpiece (spoilers)
--130.9680104686333, -132.75143703243214, positive, positive, right
-No.7 Dark Social Commentary -- 6 point commentary
--690.3377715145963, -700.0670317681834, positive, positive, right
-No.8 Leave it to Rick and Morty to out-Family Guy even the best Family Guy episodes.
--235.18738633983, -241.11257456094, positive, positive, right
-No.9 Simple episode done so well and funny
--44.25582089434973, -48.295901807216076, positive, positive, right
-No.10 Just Go With the Flow
--40.312419126290095, -42.821371615374176, positive, positive, right
-No.11 I am in great pain. Please help me.
--896.8960155593536, -915.6888601536965, positive, positive, right
-No.12 Bloody brilliant
--262.50598975323686, -268.09256208873916, positive, positive, right
-No.13 Much better than Interdimensional Cable
--86.26473705901411, -87.45723536699377, positive, positive, right
-No.14 Great episode!
--71.56799582976893, -76.68841446820021, positive, positive, right
-No.15 Best, Most Entertaining and Funniest Episode of Season 4 Yet
--36.520288085092844, -38.619917903385485, positive, positive, right
-No.16 A masterpiece and hilarious.
--18.758201575285312, -20.288124051602395, positive, positive, right
-No.17 The best episode of Season 4 yet.
--40.95650194644193, -43.38372763918794, positive, positive, right
-No.18 Ouroboros and Hilarity
--370.8997002414801, -376.46854836160713, positive, positive, right
-No.19 Beneath the sugar coating lies a disturbing reality.
--432.4633139942705, -444.7603570237832, positive, positive, right
-No.20 Evil Morty Origin Story?
--33.70071867042124, -35.9307047640716, positive, positive, right
-No.21 Rick, Morty, Existentialism and a Vat of Acid= A Masterpiece of an Episode.
--129.87659230586345, -134.75240603305582, positive, positive, right
-No.22 MeeSeek and Ye shall find
--455.53093613831265, -475.7976613348469, positive, positive, right
-No.23 Just feels like classic Rick and Morty
--81.40289567873327, -82.03104439693976, positive, positive, right
-No.24 The fact that 'Pickle Rick' (along with 'Rickmancing the Stone') is considered by some to be 'weak' is a testament to the high quality of the show.
--372.6905996306477, -388.0069275973925, positive, positive, right
-No.25 Rubba-Lubba-Dub-Dub!!
--317.53891476747043, -325.43937330212447, positive, positive, right
-No.26 Inception
--20.886380323165554, -22.248126119577424, positive, positive, right
+No.0 Rick and his granddaughter on roids agains the Devil
+-118.65508793024725, -121.35840222082345, positive, positive, right
+No.1 Now we are talking!
+-150.97945880030804, -152.53377491716617, positive, positive, right
+No.2 Classic Rick and Morty
+-110.47610140270967, -114.15502350621045, positive, positive, right
+No.3 Great
+-33.46327895469913, -35.220658485352025, positive, positive, right
+No.4 Spectacular episode
+-30.638096803269345, -31.60114792413462, positive, positive, right
+No.5 One of the best, in my book
+-168.32470206360065, -172.78301176873788, positive, positive, right
+No.6 An Unbelievably Fast and Clever Pilot
+-121.48272603247848, -123.96221339288368, positive, positive, right
+No.7 Good! But something still feels off
+-407.96606464428356, -414.7701655947938, positive, positive, right
+No.8 No, you're crying.
+-226.78054713422992, -231.7539013828701, positive, positive, right
+No.9 Just awesome
+-60.229373304365204, -61.71311778579101, positive, positive, right
+No.10 Pluto is not a planet
+-33.65483944197596, -37.351917529011764, positive, positive, right
+No.11 Big concept with a big heart.
+-76.08383664635463, -80.78863060796043, positive, positive, right
+No.12 The Purge
+-56.88241832753547, -59.276550241204625, positive, positive, right
+No.13 Best TV Show Episode ever !
+-36.18628639226997, -37.94607063077918, positive, positive, right
+No.14 Great story telling
+-106.6154185069766, -112.3734448008171, positive, positive, right
+No.15 Outstanding all the way around
+-28.61935023439314, -29.088575126192502, positive, positive, right
+No.16 Morty is gonna die alone for sure lul!
+-8.203626621497047, -9.270124047076933, positive, positive, right
+No.17 Dead on Siri
+-93.15184371398729, -93.22326832777351, positive, positive, right
+No.18 Am I missing sth?
+-180.34894215502584, -182.41824595941043, positive, positive, right
+No.19 Evil Morty Origin Story?
+-38.205400872766816, -39.14132174463181, positive, positive, right
+No.20 What do you define Toxic About yourself.
+-45.91715115438393, -48.73606203289906, positive, positive, right
+No.21 Best thing on TV...
+-126.00560074128707, -130.38830863311907, positive, positive, right
+No.22 Episode that i've looking for
+-24.17648843471962, -26.479936576682476, positive, positive, right
+No.23 I refuse to answer a literal call to adventure, Morty.
+-896.1092009087401, -894.6313699249197, negative, positive, wrong
+No.24 The Greatest
+-111.25594980689276, -115.16019765279266, positive, positive, right
+No.25 A classic and sure to be rewatched.
+-32.93224488875206, -36.566715766554324, positive, positive, right
+No.26 Never going down
+-133.31434082192482, -136.43044905110673, positive, positive, right
 No.27 One of the best
--68.77234997284417, -72.37755084580554, positive, positive, right
-No.28 Rick and Morty S2: The peak of something great.
--554.0656346589394, -577.8167492998784, positive, positive, right
-No.29 So much fun!
--103.512371177987, -106.54509140435772, positive, positive, right
-No.30 An Achievement In Rick and Morty!
--63.95592569080293, -66.0668597777395, positive, positive, right
-No.31 Get baked to enjoy this episode
--22.41521753417356, -23.70410375144517, positive, positive, right
-No.32 Best one of the season
--54.588835919398434, -55.355834552956544, positive, positive, right
-No.33 awesome
--30.59354013204545, -33.6937050633871, positive, positive, right
-No.34 Why I actually liked this episode
--563.0227626515765, -575.7474437406074, positive, positive, right
-No.35 Another masterpiece.
--307.4095904610069, -310.2182301736796, positive, positive, right
-No.36 Clips Art
--305.28624187122307, -314.14466192243043, positive, positive, right
-No.37 My favorite episode of the season.
--225.761144039782, -229.24806953681056, positive, positive, right
-No.38 Challenging episode
--32.92164297024035, -33.87745052758217, positive, positive, right
-No.39 great episode
--51.86661579755856, -54.246075388959156, positive, positive, right
-No.40 One of my favourites so far
--56.78162517677211, -58.823296391764345, positive, positive, right
-No.41 A satisfying finale
--79.4504608822707, -81.45074692823721, positive, positive, right
-No.42 Hilarious again
--227.47939678885663, -238.40175756597273, positive, positive, right
-No.43 Amazing episode
--40.43047133548474, -44.21958580232662, positive, positive, right
-No.44 Rick And Morty S1: The start of something great.
--376.6570035104036, -388.83829738472133, positive, positive, right
-No.45 Arguably the best episode of the season and the series
--84.92107482462471, -85.98466461196736, positive, positive, right
-No.46 Best episode of the season, possibly best of the show.
--275.84086561187115, -284.7550742304246, positive, positive, right
-No.47 this season restarts from now
--113.39727987360122, -118.49812862577893, positive, positive, right
-No.48 Slowly getting there
--406.1813463615091, -414.6394955228401, positive, positive, right
-No.49 the best of this season
--120.92517515435189, -126.26949840650045, positive, positive, right
-No.50 A meaningful filler
--237.43938096193676, -244.32875197715538, positive, positive, right
-No.51 Rick's battery
--33.26791403766748, -35.934045721772414, positive, positive, right
-No.52 An Unbelievably Fast and Clever Pilot
--121.07951213256112, -123.29076117620437, positive, positive, right
-No.53 Wowwwwwwwww
--24.016542144664047, -26.175034829602048, positive, positive, right
-No.54 That's why i love this show so much
--55.50866670732768, -55.34476920082915, negative, positive, wrong
-No.55 The best April fools prank ever
--232.1648308006053, -237.38878678230932, positive, positive, right
-No.56 The Morty we deserve, and the one we need
--111.5239240290793, -114.89884946747415, positive, positive, right
-No.57 Get Ready For Season 5
--30.63878032313348, -31.473481500157714, positive, positive, right
-No.58 I came here for one reason
--9.484035262095833, -10.271962671111545, positive, positive, right
-No.59 A masterclass in world-building and dense plot.
--88.08768630041493, -90.55538360863582, positive, positive, right
-No.60 That should be the bar for every episode in season 3
--176.76173212257459, -181.21596510400212, positive, positive, right
-No.61 Good start to new seaosn, but tragic passing of J. Michael Mendel
--149.41191164781034, -155.57117507679894, positive, positive, right
-No.62 This episode was terrible
--110.21748356648853, -110.77497992613785, positive, positive, right
-No.63 A FANTASTIC episode
--47.48707859742472, -48.68729646829022, positive, positive, right
-No.64 Never going down
--123.80820721731078, -129.664168914902, positive, positive, right
-No.65 What oh whattttt
--24.016542144664047, -26.175034829602048, positive, positive, right
-No.66 Good as always
--15.159071968673794, -17.08685765404511, positive, positive, right
-No.67 Brilliant Return, At Long Last
--76.21649516619648, -80.2871109404174, positive, positive, right
-No.68 Great for a season premier
--20.19175077674329, -22.615555690015935, positive, positive, right
-No.69 R&M's "Pulp Fiction"
--103.12989522897887, -108.79171742679009, positive, positive, right
-No.70 A good end to the 1st half
--131.21332982742396, -136.20492774266663, positive, positive, right
-No.71 Wow
--24.016542144664047, -26.175034829602048, positive, positive, right
-No.72 If you noticed....
--41.42706106858305, -44.530149445349174, positive, positive, right
-No.73 A little bit of this, a little bit of that!
--136.7040324467979, -139.67937373226164, positive, positive, right
-No.74 Rick and Morty is finally back on track with an AMAZING episode!
--248.3575463889368, -253.53795190148, positive, positive, right
-No.75 "He may have manifested some sort of butt."
--225.10774596957702, -226.44527669484907, positive, positive, right
-No.76 Should be 11 stars!!
--110.1035309391407, -115.28189682076054, positive, positive, right
-No.77 This might be the best episode yet. Hear me out...
--205.17562114118525, -208.0525794861083, positive, positive, right
-No.78 One of the best, in my book
--162.0855795813218, -163.19731246167544, positive, positive, right
-No.79 Hello, Morty. My old friend. I've come to Rick with you again.
--37.738449211199224, -38.80957397644194, positive, positive, right
-No.80 All this caused by pooping
--177.40673759881997, -184.22493872316957, positive, positive, right
-No.81 So we're doing superheroes now
--253.41880818933734, -261.9943094147964, positive, positive, right
-No.82 As great as ever!
--241.2320709115676, -253.81388213077716, positive, positive, right
-No.83 Worst of the series unfortunately
--79.7766087886229, -81.85831197866459, positive, positive, right
-No.84 Underrated episode
--35.72151139552678, -36.836966377210565, positive, positive, right
-No.85 Pluto is not a planet
--36.706917398383844, -40.33785568909171, positive, positive, right
-No.86 A masterpiece!
--145.02362009350165, -150.16471013216227, positive, positive, right
-No.87 Original and totally awesome !
--209.2282565294392, -216.2794628709782, positive, positive, right
-No.88 Grimly Genius
--305.4185666560643, -318.0779504719251, positive, positive, right
-No.89 Jerry
--47.840487753748, -50.46164444748743, positive, positive, right
-No.90 You wanted character development? Take it!
--186.97601372022586, -190.36996304699736, positive, positive, right
-No.91 I refuse to answer a literal call to adventure, Morty.
--874.1937354796573, -876.119853127124, positive, positive, right
-No.92 I've watched this multiple times
--138.3007080729088, -142.1739284934227, positive, positive, right
-No.93 Classic Rick and Morty
--109.000366259183, -113.11300092710964, positive, positive, right
-No.94 Rick's universe
--28.41506481173449, -30.511583768431667, positive, positive, right
-No.95 I don't understand why people don't like this episode
--88.34923937191768, -92.44514724199374, positive, positive, right
-No.96 Alien Resurrection reference
--9.558406069805654, -10.59147607246954, positive, positive, right
-No.97 Rick and Morty's Best Episode Gives the Fans what They want.
--398.5032665626605, -413.1466554028148, positive, positive, right
-No.98 Funniest s**** i ve ever seen
--15.48505752085308, -17.14645205697595, positive, positive, right
-No.99 John Hughes would be proud!
--73.83706353841909, -75.38254176398875, positive, positive, right
-No.100 Best episode of the season BY FAR!
--65.78863681577032, -67.19515868873293, positive, positive, right
-No.101 Typically profound!
--282.338486084824, -285.71780896244184, positive, positive, right
-No.102 So great.
--21.674435483151182, -23.09630759828449, positive, positive, right
-No.103 R & M at it's core
--925.032710535464, -940.626510749273, positive, positive, right
-No.104 Almost like the Twilight Zone
--59.89931591458192, -61.442575576301216, positive, positive, right
-No.105 Harmon gets a well-deserved 4th season
--100.30095847705987, -101.98870399043128, positive, positive, right
-No.106 Great story telling
--110.37171464281192, -115.36547079309355, positive, positive, right
-No.107 Great episode
--124.29641864808369, -131.1761303201667, positive, positive, right
-No.108 Classic Rick and Morty
--212.92109513857753, -222.4124269910952, positive, positive, right
-No.109 Season 3's Interdimensional Cable
--81.25109783696251, -83.02917234062868, positive, positive, right
-No.110 Hit the Nail on the Head
--88.16974218420206, -88.49799446590458, positive, positive, right
-No.111 The episode where I decided that this is better than Game Of Thrones.
--77.47923739839267, -79.13972351640714, positive, positive, right
-No.112 Mr. Morty's justice
--29.005633925153752, -31.77930880877333, positive, positive, right
-No.113 Absolutely Killed it.
--222.97250024543914, -229.95988940020572, positive, positive, right
-No.114 Interesting
--140.90650692762782, -147.30428573097794, positive, positive, right
-No.115 Classic
--81.25788682546633, -83.8090661593319, positive, positive, right
-No.116 Two Cents
--165.25144653177676, -171.449343324975, positive, positive, right
-No.117 It's a good episode
--274.1167518904135, -283.65581227584164, positive, positive, right
-No.118 Everyone's a Critic
--467.7053017106499, -476.14391732385354, positive, positive, right
-No.119 Wow
--15.159071968673794, -17.08685765404511, positive, positive, right
-No.120 Great as usual
--305.0062192426141, -317.3890238214079, positive, positive, right
-No.121 I'm in!
--79.38715128826283, -81.54784433370385, positive, positive, right
-No.122 Nothing Bad Nothing Good
--149.06004227649586, -153.79267621143165, positive, positive, right
+-73.64137506406, -75.4655118593693, positive, positive, right
+No.28 Wow
+-121.44059747664369, -126.0477765901694, positive, positive, right
+No.29 Weird way to bond
+-328.931291685916, -343.1446355329907, positive, positive, right
+No.30 The ULTIMATE clip show episode!
+-272.2493408527749, -279.58293983316236, positive, positive, right
+No.31 Solid Premiere
+-62.41167917692515, -63.391793977671604, positive, positive, right
+No.32 The episode that got me into the show!
+-122.02224702588768, -128.37830000759342, positive, positive, right
+No.33 Cool
+-23.8439361555699, -27.242150775154315, positive, positive, right
+No.34 Good adventure
+-12.83453735406391, -13.97823242726718, positive, positive, right
+No.35 Just feels like classic Rick and Morty
+-81.02872774339981, -81.70901892836926, positive, positive, right
+No.36 Great as usual
+-297.4839678236959, -309.2667884883167, positive, positive, right
+No.37 Anatomy park
+-16.48146744133855, -17.164600947214876, positive, positive, right
+No.38 End of Season 1!
+-267.07746907869233, -281.3873888560807, positive, positive, right
+No.39 Typically profound!
+-288.18172593220737, -293.7397588273414, positive, positive, right
+No.40 Home episode
+-43.2968510984668, -46.11756995992431, positive, positive, right
+No.41 Leave it to Rick and Morty to out-Family Guy even the best Family Guy episodes.
+-229.50135511684152, -233.9703759235632, positive, positive, right
+No.42 Great start, lost some steam.
+-59.23906503498074, -60.953431542414116, positive, positive, right
+No.43 Hands-down my favorite episode this season
+-383.54406256847943, -393.1690537458542, positive, positive, right
+No.44 Again, well done
+-98.84405829340982, -98.84961398385181, positive, positive, right
+No.45 Snakinator
+-92.9399626455086, -92.23734197463367, negative, positive, wrong
+No.46 Unbelievable 11/10
+-136.56671621657264, -141.01235663288787, positive, positive, right
+No.47 Rick & Morty summarizes The Wire in 22 minutes, and creates an awesome new villain in the process
+-487.6844024676769, -492.9335432252852, positive, positive, right
+No.48 Reuben Leftface Cheek
+-407.03217977769646, -420.34140849944026, positive, positive, right
+No.49 Hey!!
+-140.78153504294878, -141.06582718692908, positive, positive, right
+No.50 Beneath the sugar coating lies a disturbing reality.
+-425.17646520967924, -436.8284439695757, positive, positive, right
+No.51 Still great
+-259.05670501984736, -264.41117388358634, positive, positive, right
+No.52 One of the best Rick and Morty episodes
+-58.266428842384634, -59.633021895786754, positive, positive, right
+No.53 Best Season 4 Episode!
+-78.61649631572638, -80.07264541716499, positive, positive, right
+No.54 Bloody brilliant
+-242.01592117506846, -245.891940106012, positive, positive, right
+No.55 Mix feelings
+-160.9263143803343, -162.13521287545197, positive, positive, right
+No.56 Good as always
+-15.346993773072885, -17.556777332170775, positive, positive, right
+No.57 Best episode of season 4, easily top 3 overall
+-229.329653511967, -234.0635032234373, positive, positive, right
+No.58 Such an underrated gem
+-86.73295132807925, -88.94625221065397, positive, positive, right
+No.59 Colorful visually and philosophically in stark contrast
+-316.30949945227246, -316.7340134312809, positive, positive, right
+No.60 Rick is Back!
+-75.562123902657, -77.7094063142967, positive, positive, right
+No.61 Genius.
+-23.67633849301413, -25.463308329975927, positive, positive, right
+No.62 Season 2: Darker, funnier, yet not as consistent as Season 1.
+-486.7923909587301, -501.2749695300026, positive, positive, right
+No.63 Brilliant
+-41.364024480389226, -43.99536323365014, positive, positive, right
+No.64 "He may have manifested some sort of butt."
+-225.81357486718076, -227.63085211627086, positive, positive, right
+No.65 Don't listen to the guy above me
+-78.46439557312743, -80.51522909176066, positive, positive, right
+No.66 So glad the awesome continues.
+-131.4483392261683, -134.43311610862125, positive, positive, right
+No.67 Perfect Episode!
+-265.4060559118314, -268.618054524729, positive, positive, right
+No.68 The Most Underrated Episode of Rick and Morty
+-77.0999275888305, -81.45409308269913, positive, positive, right
+No.69 Best of season so faaaar!!
+-84.63593477555517, -89.86618722980158, positive, positive, right
+No.70 Awesome episode
+-16.912886979902495, -19.328329818935583, positive, positive, right
+No.71 Best episode of the season BY FAR!
+-67.02027807084062, -67.38172846857405, positive, positive, right
+No.72 Wow...just wow...
+-41.13451494201356, -43.71930685188967, positive, positive, right
+No.73 Its one of the best rick and morty has produced, second best one ive seen for a finale
+-92.23836197349263, -93.95869868713679, positive, positive, right
+No.74 Hospital
+-37.17286233039785, -37.82720778331596, positive, positive, right
+No.75 Best episode of Rick and Morty and a great season finale, broh!
+-456.3172262984675, -460.467081972793, positive, positive, right
+No.76 Highly recommend this show
+-106.27012694894039, -109.96148931719078, positive, positive, right
+No.77 Wow, people seem to really hate this episode
+-279.9239983388097, -290.75104923574787, positive, positive, right
+No.78 The best episode of Season 4 yet.
+-37.014013427426676, -40.00648178701736, positive, positive, right
+No.79 Beth's childhood
+-91.21083753572948, -94.07767757913479, positive, positive, right
+No.80 Ouroboros and Hilarity
+-379.8200363889962, -388.7571234874237, positive, positive, right
+No.81 Morty, kind of sex machine😂
+-41.563459086639206, -42.56849611200528, positive, positive, right
+No.82 Feels like it could have been from the first few seasons!
+-168.0892026510164, -176.44569975806385, positive, positive, right
+No.83 Better than people make out.
+-331.10891908358514, -338.38094805361027, positive, positive, right
+No.84 Morty erased memory
+-35.25158845340905, -36.85915432367096, positive, positive, right
+No.85 When Rick gets drunk!
+-47.352752408177686, -47.92322013785394, positive, positive, right
+No.86 Great Episode!
+-34.86750007311515, -36.9219110702652, positive, positive, right
+No.87 Why is everyone hating on this episode?
+-60.395367857448285, -64.37172280775866, positive, positive, right
+No.88 This is why Rick and Morty is the best animated show out there.
+-288.9727022230245, -296.8608424435706, positive, positive, right
+No.89 Never trust R&M's authors
+-704.4419640581795, -717.8541044656478, positive, positive, right
+No.90 Hits you with important issues, then makes you laugh - hard
+-88.87733761484263, -93.94755219979932, positive, positive, right
+No.91 Great episode
+-307.0288450143059, -311.4418821322762, positive, positive, right
+No.92 Wow
+-23.8439361555699, -27.242150775154315, positive, positive, right
+No.93 A Refreshing Reset to a Whirlwind of a Season
+-367.8489925379738, -375.1186214392244, positive, positive, right
+No.94 He turned himself into a pickle
+-27.116481885006547, -28.9873468684499, positive, positive, right
+No.95 Didn't expect it..
+-241.9232218134656, -247.9383361004263, positive, positive, right
+No.96 I'm Pickle Rick
+-29.588338484152583, -31.346757178441123, positive, positive, right
+No.97 Amazing Episode
+-171.59728630156349, -177.50035500388367, positive, positive, right
+No.98 Calling all Jan Michael Vincent's!
+-21.280376535594954, -24.04325866758851, positive, positive, right
+No.99 Best episode since total rickall (contains spoilers)
+-102.21212355878822, -103.49228681073718, positive, positive, right
+No.100 Just when I was losing faith in Rick and Morty
+-198.23230535681685, -202.7478530382833, positive, positive, right
+No.101 So great.
+-21.109707290182985, -22.821219173734114, positive, positive, right
+No.102 It's just a matter of taste.
+-73.01482309904168, -74.88324565209574, positive, positive, right
+No.103 The ultimate Rick and Morty Episode
+-27.91475997193844, -31.215142250616246, positive, positive, right
+No.104 FINALLY! Back on the track!
+-120.77210442015215, -120.21677768957504, negative, positive, wrong
+No.105 hamsters living in butts
+-50.403413482012134, -51.68755028848668, positive, positive, right
+No.106 "The greatest trick the Devil ever pulled was convincing the world he didn't exist."
+-117.21852767923266, -124.20639963047067, positive, positive, right
+No.107 Genius
+-20.499741219451394, -22.18705876184944, positive, positive, right
+No.108 Purging
+-41.72765229276284, -46.10902723831365, positive, positive, right
+No.109 A little bit of this, a little bit of that!
+-139.88138502161374, -141.44247771401578, positive, positive, right
+No.110 Glad to have you back, Rick!
+-501.1997690067435, -516.981770299517, positive, positive, right
+No.111 Can't believe people think this is a bad episode
+-88.95244366433602, -90.48987725715136, positive, positive, right
+No.112 Jerry
+-48.10840826865361, -50.59714103375923, positive, positive, right
+No.113 Good start to new seaosn, but tragic passing of J. Michael Mendel
+-171.14994899584605, -176.49997953538633, positive, positive, right
+No.114 A great debut episode for beginners!
+-25.680328754408357, -26.903975181045507, positive, positive, right
+No.115 The Most Rewatchable Episode I've ever Seen.
+-186.2758778507965, -190.35047169754313, positive, positive, right
+No.116 A Good Start, but is Not Representative of the Rest of the Show's Quality.
+-125.33344221471145, -127.7697786582389, positive, positive, right
+No.117 Rick's Shady Attitude Hides His True Conclusions
+-274.5459534507828, -278.06600538017943, positive, positive, right
+No.118 Excellent, but...
+-199.3056568687228, -199.99140272266777, positive, positive, right
+No.119 A masterpiece!
+-141.91198216324221, -147.44176217354575, positive, positive, right
+No.120 Mind Blowing!!!
+-82.79637558025995, -86.10155580370225, positive, positive, right
+No.121 Is it the Best Episode of the show, or the wait made it all better?
+-49.18445037907371, -50.56460072160737, positive, positive, right
+No.122 great episode
+-51.629263984178735, -52.74950113993386, positive, positive, right
 No.123 Great episode
--43.980637258940114, -47.22624260758427, positive, positive, right
-No.124 Original and thoughtful
--32.7886693129779, -35.036623506696316, positive, positive, right
-No.125 Ending season3
--63.31651889365807, -68.75923298960707, positive, positive, right
-No.126 New
--35.59690770742708, -39.043819752633574, positive, positive, right
-No.127 Reuben Leftface Cheek
--390.29361799184363, -403.68490531675087, positive, positive, right
-No.128 Excellent, but...
--206.14709705920623, -208.43600497747266, positive, positive, right
-No.129 He turned himself into a pickle
--26.58363518113291, -30.170867689180696, positive, positive, right
-No.130 Some good laughs and more funny improvisation.
--365.9304204251091, -373.5872709601296, positive, positive, right
-No.131 An Episode that lives in the moment
--51.31626531282001, -51.89240232781037, positive, positive, right
-No.132 Surprising return to form for Rick and Morty antics
--243.62768797231493, -250.5823809363383, positive, positive, right
-No.133 People are really missing the point of the Episode
--122.76017866363888, -126.61433780656128, positive, positive, right
-No.134 The Best
--15.97099945892158, -17.775165182665187, positive, positive, right
-No.135 Too many anthologies
--300.0397536951467, -306.7136399871339, positive, positive, right
-No.136 Great start
--85.39623957657834, -89.27553145211733, positive, positive, right
-No.137 Dead on Siri
--84.7170913883107, -82.46099106492322, negative, positive, wrong
-No.138 Best episode of series
--83.77030168299166, -87.70190483351469, positive, positive, right
-No.139 Beth's childhood
--90.73352224757565, -93.04187836587754, positive, positive, right
-No.140 Probably the best episode
--66.04556347835924, -68.81196563986465, positive, positive, right
-No.141 Pretty Good
--36.986686799701445, -37.31950913979833, positive, positive, right
-No.142 Just swallowed a mind**** train
--244.22522084133234, -253.67297621446184, positive, positive, right
-No.143 The best of what Rick and Morty has to offer
--208.4756297406695, -215.2448288801955, positive, positive, right
-No.144 Rick's Shady Attitude Hides His True Conclusions
--258.4752641579275, -262.46724744683763, positive, positive, right
-No.145 One of the best Rick and Morty episodes
--50.58752793069941, -54.35604440601073, positive, positive, right
-No.146 As Crazy as the First Season
--75.07631151387234, -76.65555039489307, positive, positive, right
-No.147 The Unbreakable Jerry Smith
--382.0793670436144, -395.6672773810854, positive, positive, right
-No.148 Spectacular episode
--26.341827318147754, -28.082741432637913, positive, positive, right
-No.149 I can't believe
--136.81512870187962, -142.1849910933599, positive, positive, right
-No.150 The Reason Rick and Morty is more than meets the Eye
--454.73239900406105, -468.00908215102373, positive, positive, right
-No.151 A great debut episode for beginners!
--25.40465775072104, -27.59450977194712, positive, positive, right
-No.152 Is it the Best Episode of the show, or the wait made it all better?
--52.14547174265956, -54.079851694856906, positive, positive, right
-No.153 Character Developement
--95.61864587285021, -98.15000270009718, positive, positive, right
-No.154 I don't understand the rating
--180.12033737403357, -183.46679317458984, positive, positive, right
-No.155 Great
--21.54862934449589, -23.665695455687253, positive, positive, right
-No.156 The show doesn't miss a beat.
--101.76034022912337, -104.69216803895031, positive, positive, right
-No.157 Rick is Back!
--76.48786493962797, -78.41834310961869, positive, positive, right
-No.158 One of their best episodes
--106.1746649172215, -109.59694023384695, positive, positive, right
-No.159 9
--36.51008812696141, -38.41843592105455, positive, positive, right
-No.160 Hilarious Episode
--30.165376392118045, -31.90104091311779, positive, positive, right
-No.161 8.6 Nothing Amazing but is that bad?
--139.58404562588007, -138.7274901991371, negative, positive, wrong
-No.162 12/10
--48.37171276803565, -49.902935951376556, positive, positive, right
-No.163 Good! But something still feels off
--375.1313246670351, -380.06858514845663, positive, positive, right
-No.164 So glad the awesome continues.
--127.30931857851837, -130.43755435247397, positive, positive, right
-No.165 why all the low ratings?
--60.20431709596865, -61.13033935575369, positive, positive, right
-No.166 Best episode since total rickall (contains spoilers)
--108.19036629646368, -109.93864198247303, positive, positive, right
-No.167 Weird way to bond
--319.4801900138163, -335.83055658122936, positive, positive, right
-No.168 What?
--150.10772987267995, -152.6080100514763, positive, positive, right
-No.169 This. Is. Rick and Morty
--67.24151961810851, -69.0076932534612, positive, positive, right
-No.170 Great Episode!
--35.284688169880255, -36.96695768122056, positive, positive, right
-No.171 Good commentary on relationship with fans
--51.25745114523241, -52.820096729889784, positive, positive, right
-No.172 Better than people make out.
--327.1259967829714, -332.0254917588332, positive, positive, right
-No.173 Great Show, Great Episode
--147.36830143479332, -155.75838299229284, positive, positive, right
-No.174 Refreshing
--71.86977879987978, -72.41529610745135, positive, positive, right
-No.175 Best episode of the season,Dark,100% flawless and mind blowing
--79.16454498455961, -83.61423569149164, positive, positive, right
-No.176 Rick and Morty Still Delivers the Television Goods! And Hopefully Bring Back McNugget Szechuan Sauce!
--137.68708962600672, -141.17843863178737, positive, positive, right
-No.177 Meaningful
--23.08208946903423, -24.656626280490222, positive, positive, right
-No.178 THIS is my favorite episode
--349.106830180734, -364.8509378046684, positive, positive, right
-No.179 Punchline ; Summer .
--45.559834062913986, -50.42809743133349, positive, positive, right
-No.180 A masterpiece
--137.8346500052836, -142.9391870776831, positive, positive, right
-No.181 What do you define Toxic About yourself.
--49.29300551636217, -52.678129170484425, positive, positive, right
-No.182 True rick and morty episode
--87.03341081289011, -92.38289176781142, positive, positive, right
-No.183 Season ends with the episode we all loved
--106.39854434893682, -110.72005425352773, positive, positive, right
-No.184 Hits you with important issues, then makes you laugh - hard
--85.2490497527473, -91.05633215270043, positive, positive, right
-No.185 hamsters living in butts
--46.51684141702981, -47.46129895729304, positive, positive, right
-No.186 Doesn't deserve all the hate but is a hiccup
--229.65404801723471, -231.54498843369936, positive, positive, right
-No.187 Snakinator
--87.10433956172082, -88.684954302053, positive, positive, right
-No.188 A Relationship As Toxic as the Titular Vat of Acid.
--131.40426991042565, -137.26778854828834, positive, positive, right
-No.189 I enjoyed this
--37.516053952315225, -38.974390839444226, positive, positive, right
-No.190 Just love it
--24.016542144664047, -26.175034829602048, positive, positive, right
-No.191 Rick's a pickle on Rick and Morty
--467.92458099748734, -471.32578801696644, positive, positive, right
-No.192 Wow
--126.47355659959813, -130.2746553841083, positive, positive, right
-No.193 Idk why some people want to stary a hate train
--71.70854819892786, -74.037885420082, positive, positive, right
-No.194 Rick & Morty summarizes The Wire in 22 minutes, and creates an awesome new villain in the process
--459.6949145077726, -465.4076851390364, positive, positive, right
-No.195 Best episode since the Rick and Morty Premiere! Keep this going!
--103.94695524879185, -107.11180719696164, positive, positive, right
-No.196 The ULTIMATE clip show episode!
--276.2131421642394, -283.1616022578196, positive, positive, right
-No.197 Funniest episode ever!!!
--163.00580927492544, -172.12825217079572, positive, positive, right
-No.198 I think a rewatch might come in handy.
--93.15094495716447, -94.11776538452855, positive, positive, right
-No.199 Surprisingly one of the weaker episodes.
--160.73132216822648, -160.14558766176037, negative, positive, wrong
-No.200 Snake Terminator
--56.92586514006563, -60.12405184076258, positive, positive, right
-No.201 Outstanding all the way around
--28.006026676566705, -30.819833360070454, positive, positive, right
-No.202 Don't review much, but
--71.63438205613986, -74.32716973789147, positive, positive, right
-No.203 Never question Rick
--59.42606809539159, -61.44161589900898, positive, positive, right
-No.204 "Edge of Tomorty: Rick, Die, Rickpeat": an extremely smart episode, with deep rooted philosophy.
--192.16943065144795, -195.96898119695385, positive, positive, right
-No.205 One of the best episodes so far
--107.00642533565555, -110.19585541634169, positive, positive, right
-No.206 Morty Lives Matter
--93.81437417650281, -95.26572946684163, positive, positive, right
-No.207 Best thing on TV...
--113.97968535179079, -118.52536062603848, positive, positive, right
-No.208 Still great
--258.6462167330583, -264.3805982854741, positive, positive, right
-No.209 Anthology done right
--89.4418445365068, -90.88871477163615, positive, positive, right
-No.210 Its one of the best rick and morty has produced, second best one ive seen for a finale
--102.68877388415427, -104.7539598497636, positive, positive, right
-No.211 Jerry can be funny
--186.7979854185098, -196.76999178075638, positive, positive, right
-No.212 Extremely underrated
--24.59393505944769, -27.210610958290907, positive, positive, right
-No.213 Hospital
--48.661231813777995, -48.98128556505608, positive, positive, right
-No.214 Amazing
--15.159071968673794, -17.08685765404511, positive, positive, right
-No.215 An incredible metaphor for psychosis
--190.82772324578127, -198.48398477466998, positive, positive, right
-No.216 Nice wAY FOR start a series
--19.52435649034341, -21.91845275849462, positive, positive, right
-No.217 sh**, this one is good
--175.6869093879058, -179.2359742487985, positive, positive, right
-No.218 Rick and Morty at it's absolute best,
--185.0372768486545, -191.3621789207604, positive, positive, right
-No.219 Morty's love!
--30.374374615445504, -33.370094085190814, positive, positive, right
-No.220 Underrated
--32.83448822048164, -33.80362519560512, positive, positive, right
-No.221 The episode that got me into the show!
--121.71949375910806, -128.16834528108092, positive, positive, right
-No.222 The first Rick and Summer adventure
--166.44792569649528, -162.98403086428368, negative, positive, wrong
-No.223 Mix feelings
--155.46143284012098, -157.2454851976856, positive, positive, right
-No.224 The best
--14.528676950922325, -16.496010582324967, positive, positive, right
-No.225 Am I missing sth?
--154.87718120766496, -157.7951314654554, positive, positive, right
-No.226 The greatest episode in a long long time.
--15.967422255424523, -18.38441780507778, positive, positive, right
-No.227 An intense camping trip
--26.37507393210595, -28.021364173765352, positive, positive, right
-No.228 Exactly what is to be expected.
--114.0020634274939, -119.3718108810693, positive, positive, right
-No.229 Such an underrated gem
--82.20515710115454, -85.95014181803893, positive, positive, right
-No.230 Great ep
--128.86481358920182, -131.25534739299022, positive, positive, right
-No.231 Fantastic
--24.016542144664047, -26.175034829602048, positive, positive, right
-No.232 Rushed through
--23.934066158478142, -25.076415034334683, positive, positive, right
-No.233 promise finally delivered：the darkest season
--124.29370700346168, -129.24836916681187, positive, positive, right
-No.234 Perfect episode of a perfect show
--119.4215586570714, -123.97436685999003, positive, positive, right
-No.235 A classic and sure to be rewatched.
--33.62770757932521, -36.36694819702681, positive, positive, right
-No.236 Good adventure
--12.757182874783442, -13.882375940983742, positive, positive, right
-No.237 Jerry finds the Perfect Rick
--40.03159040626152, -42.636085994045395, positive, positive, right
-No.238 Incredible Episode
--57.5766345392745, -59.471075878417395, positive, positive, right
-No.239 Classic
--13.971250560916511, -16.439533112905064, positive, positive, right
-No.240 trash cringe
--130.85172487011258, -132.63491494090158, positive, negative, wrong
-No.241 Worst episode in entire series so far...
--125.13548289369481, -127.43142981647021, positive, negative, wrong
-No.242 Dissapointing
--54.565266617378086, -56.85793688908501, positive, negative, wrong
-No.243 Rick and Morty S3: There's something great left.
--663.2538318228565, -683.75933036353, positive, negative, wrong
-No.244 No this is not about minecraft
--302.4875907116925, -304.99590731482823, positive, negative, wrong
-No.245 The first step to self destruction
--255.8660871567677, -263.3932276123726, positive, negative, wrong
-No.246 This reminds me of how GoT end up
--23.849622438406545, -25.20251384621598, positive, negative, wrong
-No.247 Worst episode ever
--38.51627480020263, -38.66133608373667, positive, negative, wrong
-No.248 Another underwhelming episode
--441.41335530925045, -437.0161285599759, negative, negative, right
-No.249 Why?
--156.74055070739104, -160.23316045393034, positive, negative, wrong
-No.250 The only truly disappointing episode so far
--83.94000804430094, -82.0411157646986, negative, negative, right
-No.251 Need morty to be his morty
--129.8355034161156, -136.91476256958356, positive, negative, wrong
-No.252 Not bad, but not great either...
--270.4610314065553, -275.6392685498718, positive, negative, wrong
-No.253 Horrific episode
--39.98257172927585, -39.55017951030163, negative, negative, right
-No.254 A good episode
--33.29350561860261, -34.40984801661091, positive, negative, wrong
-No.255 Very mediocre episode that ruins a perfect run.
--302.84199025902706, -304.7486188656756, positive, negative, wrong
-No.256 Not that as good
--226.6069492192304, -227.16920776010312, positive, negative, wrong
-No.257 Among the better ones, but only in this season.
--350.92031045287206, -358.8625312506862, positive, negative, wrong
-No.258 Seeds of doubt.
--415.3327309185756, -424.38454643450297, positive, negative, wrong
-No.259 Jerry abuse going over the top
--60.11615044431342, -62.5785108207593, positive, negative, wrong
-No.260 The worst episode so far???
--38.50439535597728, -40.09643403885434, positive, negative, wrong
-No.261 This is not the rick and morty show that we used to love
--199.33073503026486, -202.34026122787344, positive, negative, wrong
-No.262 Cringey, and just bad full stop
--41.96512351984083, -43.26734120490521, positive, negative, wrong
-No.263 Lacking something
--40.36918771317693, -39.83248756175733, negative, negative, right
-No.264 Too random to be likeable
--42.42615007177002, -42.22091779561398, negative, negative, right
-No.265 Inception all over again
--40.608960999749875, -41.828397279517105, positive, negative, wrong
-No.266 Easily the best of the show's clip based episodes.
--510.85958905423604, -529.2743234684959, positive, negative, wrong
-No.267 Double length episode?
--64.30219680168753, -64.68964180678174, positive, negative, wrong
-No.268 It just wasnt that good
--87.12082751958731, -90.30030999701529, positive, negative, wrong
-No.269 Recycled ideas.
--147.63620449754455, -152.4548258760899, positive, negative, wrong
-No.270 Only episode of entire franchise I didn't like
--217.57172937610466, -219.46376007940157, positive, negative, wrong
-No.271 Jumped the shark
--99.69846994178187, -99.64022854993146, negative, negative, right
-No.272 If this were my first episode, would have been last...
--230.57837727850247, -230.85412729226096, positive, negative, wrong
-No.273 4x10
--88.35465960522882, -90.51465014570044, positive, negative, wrong
-No.274 Not that Funny
--38.204715061137364, -39.41898371967331, positive, negative, wrong
-No.275 Painfully unfunny with a wasted Elon Musk cameo
--63.39479486433962, -62.94959719542673, negative, negative, right
-No.276 Rick & Morty & Summer
--176.75202394484836, -175.47900317328845, negative, negative, right
-No.277 Meh
--64.62832768706195, -62.75729514228558, negative, negative, right
-No.278 Feeling sad and...a little bored.
--347.9041467382557, -354.2134293273561, positive, negative, wrong
-No.279 Better than previous episodes, but still lacking.
--275.84357069791037, -286.6077693200615, positive, negative, wrong
-No.280 the islam not like that
--21.76390278102593, -22.436513766126847, positive, negative, wrong
-No.281 Bored
--54.04111108591111, -54.28540707813045, positive, negative, wrong
-No.282 Very funny and creative, something still feels missing
--75.04373654046326, -76.4628512194714, positive, negative, wrong
-No.283 Worst episode of the show without a doubt
--160.8689187284894, -163.33061170988083, positive, negative, wrong
-No.284 Weakest episode yet.
--570.6035352979391, -579.7719886994747, positive, negative, wrong
-No.285 Great Show, Bad Episode
--186.90236610125103, -192.53954248494324, positive, negative, wrong
-No.286 This is the first truly bad episode of Rick and Morty, and it hits really hard, broh. How could you hate these nightmares in Seahorse Seashell Party but love them here?
--1708.383126943937, -1727.8676165598538, positive, negative, wrong
-No.287 Season four had lost its magic.
--109.30341731608495, -109.9705354346411, positive, negative, wrong
-No.288 Going down
--97.99554462370021, -99.49866940665115, positive, negative, wrong
-No.289 Abysmal Writing.
--401.03343373761004, -397.84104473423656, negative, negative, right
-No.290 Not good
--184.46205333597217, -184.83224019835743, positive, negative, wrong
-No.291 Worst R&M episode, period
--34.11377355237899, -32.91561375289412, negative, negative, right
-No.292 Viewing was an utter chore; like a completely different show
--169.4461737958393, -169.05966720239735, negative, negative, right
-No.293 Not the best but ugh
--19.54948060412145, -21.441584054520376, positive, negative, wrong
-No.294 Not what I was waiting for
--377.1549729790652, -378.4883664865287, positive, negative, wrong
-No.295 What a letdown
--549.4585681003268, -557.4716016882936, positive, negative, wrong
-No.296 That's nasty! No wonder it got bumped up from TV-14 to TV-MA. Where is Rick and Morty's FIRST Vindicators episode from Season 2?
--667.1673390807339, -671.347534967516, positive, negative, wrong
-No.297 What happened? One terrible mess of an episode in a usually brilliant show...
--132.5304348262755, -134.8674828664072, positive, negative, wrong
-No.298 Subpar
--162.62415302758015, -164.98504413060175, positive, negative, wrong
-No.299 Not bad...not Great...A typical Beth Episode
--98.0308708452588, -99.7234349851351, positive, negative, wrong
-No.300 So far season 4 isnt what we were expecting
--234.35280938134753, -236.58622381416288, positive, negative, wrong
-No.301 I give a low score! :(
--157.90325911052915, -160.96411046802828, positive, negative, wrong
-No.302 This is what Rick Potion #9 was warning us about, broh. Season 3 has gone to heck and Rick is a sadistic God who chooses who will live and who will die.
--978.9817720890793, -986.7772500128581, positive, negative, wrong
-No.303 a low point in a great show
--116.47475074477502, -113.49370116414744, negative, negative, right
-No.304 Mediocre
--48.06077483501886, -47.12343800538687, negative, negative, right
-No.305 A spectacular new low.
--462.278382978892, -457.3062402290467, negative, negative, right
-No.306 Worst adventure ever indeed!
--228.87935219987642, -228.88286890409597, positive, negative, wrong
-No.307 Worst episode so far
--210.09593927615973, -206.9855987612302, negative, negative, right
-No.308 Another piece of garbage
--104.21075840914838, -105.73448174497133, positive, negative, wrong
-No.309 Don't parody something you hate!
--64.99729789235305, -65.25062937018149, positive, negative, wrong
-No.310 References
--20.50106889362962, -19.36864364842228, negative, negative, right
-No.311 Can't reach the level of the season opening
--111.02507953695205, -111.92184858563952, positive, negative, wrong
-No.312 SEASON FOUR HAS NO RE-WATCH VALUE......
--81.29815325959231, -80.12010520230399, negative, negative, right
-No.313 Nah
--19.54948060412145, -21.441584054520376, positive, negative, wrong
-No.314 This is a good example of what "It's all about the ending" means.
--122.64593975246352, -125.95440859230216, positive, negative, wrong
-No.315 worst episode yet
--37.89690562770908, -37.31540014046308, negative, negative, right
-No.316 It could have been so much better...an OK episode
--322.3575677069144, -325.6878661898405, positive, negative, wrong
-No.317 Ok, I can stop watching Rick ans Morty now
--119.14572267403265, -121.6025732084938, positive, negative, wrong
-No.318 Ugh
--15.159071968673794, -17.08685765404511, positive, negative, wrong
+-48.357662797975244, -50.387908634065575, positive, positive, right
+No.124 You wanted character development? Take it!
+-196.36119325854003, -196.7287086507686, positive, positive, right
+No.125 Great start!
+-37.64753798053507, -40.159523466290715, positive, positive, right
+No.126 Hilarious again
+-238.08618129315752, -249.03189724409933, positive, positive, right
+No.127 All this caused by pooping
+-176.69985614923212, -181.0328999576703, positive, positive, right
+No.128 Amazing episode
+-24.48096311934732, -24.943176147268897, positive, positive, right
+No.129 Great start
+-81.20747296205502, -85.1777649338277, positive, positive, right
+No.130 There's never been a bad one!
+-197.65411959765106, -205.96173408083655, positive, positive, right
+No.131 I could tell it was ending
+-290.16385469729875, -297.13989231848035, positive, positive, right
+No.132 They finally broke the time travel rule!
+-110.90600104794213, -115.4605863736504, positive, positive, right
+No.133 Perfect episode of a perfect show
+-130.19086890595634, -134.42464543491027, positive, positive, right
+No.134 Hit the Nail on the Head
+-88.54630150808342, -89.23439638175596, positive, positive, right
+No.135 Hello, Morty. My old friend. I've come to Rick with you again.
+-41.70982865157458, -43.18870624480295, positive, positive, right
+No.136 Snake Terminator
+-49.37104145706121, -52.198833367305795, positive, positive, right
+No.137 One of the greatest season openers
+-82.85313885099856, -84.50457366943021, positive, positive, right
+No.138 Had to watch it at least three times, in a row.
+-68.03974545487003, -68.48387594654965, positive, positive, right
+No.139 King Of The World
+-294.6048947228726, -305.5628137940368, positive, positive, right
+No.140 The show doesn't miss a beat.
+-98.7902805920482, -100.8855656346163, positive, positive, right
+No.141 9
+-41.296438196350245, -42.16209829488227, positive, positive, right
+No.142 Just wow
+-23.8439361555699, -27.242150775154315, positive, positive, right
+No.143 MeeSeek and Ye shall find
+-487.7584031480851, -499.1759295699393, positive, positive, right
+No.144 Cooool
+-20.499741219451394, -22.18705876184944, positive, positive, right
+No.145 Mind control + Love
+-149.28383506263353, -154.2081719692633, positive, positive, right
+No.146 Great Comedy, Somehow Great Action.
+-130.0238462296979, -134.07779450774729, positive, positive, right
+No.147 A sharply-written, hilarious comeback of Rick and Morty
+-140.49523840480904, -139.99593934217765, negative, positive, wrong
+No.148 I can't believe
+-141.20124447367309, -145.70471236668226, positive, positive, right
+No.149 Wowwwwwwwww
+-23.8439361555699, -27.242150775154315, positive, positive, right
+No.150 Tiny Rick
+-49.96664969334561, -53.16302680938191, positive, positive, right
+No.151 Good commentary on relationship with fans
+-43.71113641600251, -45.65581005223243, positive, positive, right
+No.152 simulation
+-33.943579712509006, -37.225471472432936, positive, positive, right
+No.153 Punchline ; Summer .
+-47.122559973275344, -49.079975763938975, positive, positive, right
+No.154 A masterclass in world-building and dense plot.
+-83.68150798929703, -87.33284497176676, positive, positive, right
+No.155 Classic
+-78.19699320735795, -79.63504457948058, positive, positive, right
+No.156 Rick and Morty Still Delivers the Television Goods! And Hopefully Bring Back McNugget Szechuan Sauce!
+-143.10378318181364, -146.59183447910306, positive, positive, right
+No.157 Season 1 completed
+-21.190881519987464, -21.57735808347799, positive, positive, right
+No.158 Amazing episode
+-40.191811765761315, -43.93913576848806, positive, positive, right
+No.159 Thank god
+-174.9420359550475, -180.86399162279346, positive, positive, right
+No.160 Continues to suprise
+-107.2126825774932, -108.98712453690705, positive, positive, right
+No.161 this season restarts from now
+-118.08677982080724, -121.21263728499724, positive, positive, right
+No.162 This epi got me to watch rick and morty
+-20.499741219451394, -22.18705876184944, positive, positive, right
+No.163 All good things to those who wait.
+-269.16683790948554, -274.5780739080466, positive, positive, right
+No.164 Probably the worst episode
+-271.6762529567912, -276.5098045344171, positive, positive, right
+No.165 Back on Track!
+-114.61234602448157, -117.66515389118922, positive, positive, right
+No.166 Getting darker
+-108.4401621018624, -112.95901641748239, positive, positive, right
+No.167 We've waited 2 years for this....
+-102.5566681104255, -105.82442918791533, positive, positive, right
+No.168 Get Ready For Season 5
+-26.76527812475999, -28.373189379397836, positive, positive, right
+No.169 Parasitism
+-20.91112471207367, -22.790019372235033, positive, positive, right
+No.170 This. Is. Rick and Morty
+-55.42433946613353, -59.54117424043511, positive, positive, right
+No.171 Epic feel-bad finale to Season 2 of Rick and Morty reaches beyond the limits of sitcoms
+-243.05611067950676, -245.5525491127334, positive, positive, right
+No.172 Anthology done right
+-93.29478504495094, -94.6035258787648, positive, positive, right
+No.173 Kicking off from the top.
+-81.19675058549599, -84.47782581198884, positive, positive, right
+No.174 Even when Rick and Morty is at its worst, it's still pretty Schwifty
+-465.43269616564095, -474.1991989581828, positive, positive, right
+No.175 I need to take a sh*t
+-184.17691072781213, -190.53393644190956, positive, positive, right
+No.176 Brilliant Return, At Long Last
+-81.27107349508393, -84.93679871480502, positive, positive, right
+No.177 Action in a fast pace
+-71.77595316340546, -75.85708932502506, positive, positive, right
+No.178 Absolutely genius A+
+-24.150237647559624, -24.93146947788209, positive, positive, right
+No.179 Great Show, Great Episode
+-156.3135093560915, -162.41632550202087, positive, positive, right
+No.180 Jerry finds the Perfect Rick
+-40.17293474326108, -43.32693123507801, positive, positive, right
+No.181 Why are there so many low ratings?
+-65.69070171954601, -68.22797253387046, positive, positive, right
+No.182 People are really missing the point of the Episode
+-126.27771259117554, -130.02901758418056, positive, positive, right
+No.183 Hope this continues into part 2
+-59.32895003198621, -63.950704285310785, positive, positive, right
+No.184 Ending season3
+-68.31045428942424, -72.01760970763769, positive, positive, right
+No.185 Rick and Morty at its Absolute Best!
+-261.7755980069177, -268.5551411214376, positive, positive, right
+No.186 Pity it's hated
+-156.12479339375903, -158.48636911967932, positive, positive, right
+No.187 Rick and Morty at its best
+-269.82856839728083, -275.8801564394677, positive, positive, right
+No.188 Brilliant
+-37.97948417161176, -39.77141199241579, positive, positive, right
+No.189 Rick's a pickle on Rick and Morty
+-477.8827328064645, -479.5806254144708, positive, positive, right
+No.190 Great
+-21.655149046358776, -23.01772942746058, positive, positive, right
+No.191 Another masterpiece.
+-299.0658703463803, -302.1792015129382, positive, positive, right
+No.192 Unbelievably good story writing and cinematic - this is pure creative genius
+-70.53522536442715, -73.06446026641626, positive, positive, right
+No.193 So we're doing superheroes now
+-275.4352705239491, -277.9178978794452, positive, positive, right
+No.194 Rick and Morty's red wedding.
+-292.47032926708346, -293.6309291467911, positive, positive, right
+No.195 the best of this season
+-122.77436692024766, -123.68814032163498, positive, positive, right
+No.196 Meaningful
+-31.461696623171512, -32.26386790992157, positive, positive, right
+No.197 Just swallowed a mind**** train
+-242.56422885366771, -252.90134126244305, positive, positive, right
+No.198 A Jerry episode is precisely what this season needed
+-326.1166843145114, -337.04309517244695, positive, positive, right
+No.199 Flawless Episode
+-93.89737645782854, -97.04433672380561, positive, positive, right
+No.200 Nice ending
+-68.07193713984874, -71.26679630878884, positive, positive, right
+No.201 Superb Episode
+-64.40750477277754, -67.34588904757207, positive, positive, right
+No.202 Absolutely Killed it.
+-202.20021815368148, -215.93388765111766, positive, positive, right
+No.203 A Classic.
+-22.81748223435955, -23.28012559440087, positive, positive, right
+No.204 Buy the train!
+-37.262231305052055, -38.91589780449425, positive, positive, right
+No.205 Great episode!
+-70.88149903417948, -75.94675747502569, positive, positive, right
+No.206 Best Episode, and I mean that
+-84.25980890957516, -87.47647102025374, positive, positive, right
+No.207 Best episode of the season, possibly best of the show.
+-304.37037818750713, -314.80691689800466, positive, positive, right
+No.208 Rick, Morty, Existentialism and a Vat of Acid= A Masterpiece of an Episode.
+-135.1609726913224, -137.2117652661241, positive, positive, right
+No.209 7.7 Why is this so hated?
+-59.91602535387299, -62.747785733918064, positive, positive, right
+No.210 Should be 11 stars!!
+-106.07301575626708, -112.17095226240288, positive, positive, right
+No.211 Rick and Zeek are NOT the same
+-144.6113637247165, -148.50473502063667, positive, positive, right
+No.212 Underrated episode
+-35.14197505146793, -37.56047642569013, positive, positive, right
+No.213 where rick and Morty started
+-55.37048100409436, -58.466604628156276, positive, positive, right
+No.214 Entertainment as masterful.
+-36.89353084148272, -39.27964473111003, positive, positive, right
+No.215 This Is Just Epic.
+-132.65907834018452, -140.5853315346283, positive, positive, right
+No.216 A masterpiece and hilarious.
+-14.77888554641192, -17.041779568850213, positive, positive, right
+No.217 Incredible episode
+-50.29146505799058, -53.37390115932529, positive, positive, right
+No.218 My brain is fried
+-26.025397926082704, -27.443771235074852, positive, positive, right
+No.219 Hilarious and thought-provoking
+-33.47178694408356, -35.81903295396351, positive, positive, right
+No.220 Never Going Down.!
+-179.7885825593206, -185.01093031313147, positive, positive, right
+No.221 Refreshing
+-68.32561333148693, -68.99931425671943, positive, positive, right
+No.222 Surprising return to form for Rick and Morty antics
+-224.98415542998862, -230.09824519337755, positive, positive, right
+No.223 I don't understand the rating
+-199.2804940199197, -197.73944813302717, negative, positive, wrong
+No.224 'Marvel' At Its Beauty...
+-234.64913650511912, -238.53418005459343, positive, positive, right
+No.225 Oooo Baby!! (Spoilers!!)
+-112.17727851117132, -114.49459482096391, positive, positive, right
+No.226 A Classic R&M Hot Mess
+-321.545791922875, -324.3858683268109, positive, positive, right
+No.227 True rick and morty episode
+-93.6422199466884, -95.62640967586378, positive, positive, right
+No.228 Classic Rick and Morty.
+-165.25100366609433, -169.97044400321494, positive, positive, right
+No.229 8.6 Nothing Amazing but is that bad?
+-132.6936262002349, -131.83236137328402, negative, positive, wrong
+No.230 The best episode of Rick and Morty
+-83.86081214603969, -86.79369868696998, positive, positive, right
+No.231 Morty Lives Matter
+-97.28854200827763, -99.72351557852605, positive, positive, right
+No.232 Intense!
+-78.70551619183138, -78.98183200015256, positive, positive, right
+No.233 Too many anthologies
+-304.1213682721166, -310.5450231527137, positive, positive, right
+No.234 Season 3's Interdimensional Cable
+-81.88771403008954, -82.88188297048403, positive, positive, right
+No.235 Let's start!
+-29.37682621093942, -31.0014223294283, positive, positive, right
+No.236 The Best
+-16.274619525895233, -17.10323828423515, positive, positive, right
+No.237 The greatest episode in a long long time.
+-20.485355887671687, -21.82999683743083, positive, positive, right
+No.238 This might be the best episode yet. Hear me out...
+-205.7531769538223, -211.22513259832752, positive, positive, right
+No.239 One of my favourites so far
+-56.28842736684777, -59.72375249046267, positive, positive, right
+No.240 It just wasnt that good
+-95.43667043742896, -97.78318310128726, positive, negative, wrong
+No.241 It's gone full crystal skull
+-33.83587242261919, -32.7415342773135, negative, negative, right
+No.242 The first step to self destruction
+-251.49663254491452, -254.84066753869737, positive, negative, wrong
+No.243 Horrific episode
+-40.67966247345545, -40.04463433124723, negative, negative, right
+No.244 Only episode of entire franchise I didn't like
+-209.0091210243599, -211.54583734181156, positive, negative, wrong
+No.245 First Rick and Morty I really didn't enjoy
+-222.79348624890932, -226.50346168083416, positive, negative, wrong
+No.246 Horrble episode
+-68.22329159333317, -69.3187622861988, positive, negative, wrong
+No.247 The WTF of Beth
+-135.75006292793654, -135.56374169180484, negative, negative, right
+No.248 Ran out of new ideas so now we're just copying movies
+-20.953066792810656, -21.82836701471966, positive, negative, wrong
+No.249 Not bad, but not great either...
+-280.39972727280167, -285.5362683640476, positive, negative, wrong
+No.250 Painfully unfunny with a wasted Elon Musk cameo
+-70.78494458228766, -70.71564341811099, negative, negative, right
+No.251 Bored
+-50.44891987812654, -51.49558857248257, positive, negative, wrong
+No.252 sad to report. weak episode
+-113.93450194542191, -115.64281454674054, positive, negative, wrong
+No.253 References
+-20.423820410544813, -20.028136386883148, negative, negative, right
+No.254 Cool
+-20.499741219451394, -22.18705876184944, positive, negative, wrong
+No.255 The only bad epi
+-23.8439361555699, -27.242150775154315, positive, negative, wrong
+No.256 Painful
+-124.59350401988888, -124.55861842298343, negative, negative, right
+No.257 In a parallel dimension Ricklantis Mixup was aired as season finale
+-274.9182865227363, -278.5356460961415, positive, negative, wrong
+No.258 Not the best thematic path for this show to continue on.
+-264.3142230630995, -263.96880554679257, negative, negative, right
+No.259 Predictable and boring
+-21.974087695445665, -21.5049650152708, negative, negative, right
+No.260 I don't get it?
+-233.77615320475365, -234.75667209577804, positive, negative, wrong
+No.261 Jerry abuse going over the top
+-64.02381711027705, -65.37603092057245, positive, negative, wrong
+No.262 Complications of being a single serving lifeform.
+-117.08641023525263, -122.08067754860237, positive, negative, wrong
+No.263 It could have been so much better...an OK episode
+-339.1456353895403, -338.3876224710949, negative, negative, right
+No.264 What the hell happened
+-184.38338594808135, -185.3738053607388, positive, negative, wrong
+No.265 Worst Episode thus far
+-71.49848815518489, -72.71353862197198, positive, negative, wrong
+No.266 If this were my first episode, would have been last...
+-228.02100492411304, -224.79694821370586, negative, negative, right
+No.267 Gone Downhill Fast
+-86.34999260033001, -88.37139189628485, positive, negative, wrong
+No.268 Not that as good
+-247.3514438423437, -244.07115568729282, negative, negative, right
+No.269 Very mediocre episode that ruins a perfect run.
+-288.71740206579176, -292.0661134316045, positive, negative, wrong
+No.270 First good episode in the entire season
+-62.72854546707289, -65.52347553893637, positive, negative, wrong
+No.271 Meh you cant love them all
+-49.90459632618887, -52.98843355910832, positive, negative, wrong
+No.272 Rough take-off for an awesome journey
+-238.14055133129108, -241.7942873796689, positive, negative, wrong
+No.273 the islam not like that
+-17.975249871609712, -19.314612323262512, positive, negative, wrong
+No.274 Made new Simpsons seem more appealing
+-89.01172094878552, -89.73756053996858, positive, negative, wrong
+No.275 4x10
+-89.88197134858774, -90.33171333257303, positive, negative, wrong
+No.276 What is happening?
+-61.1601678734105, -61.969484056559935, positive, negative, wrong
+No.277 What happened? One terrible mess of an episode in a usually brilliant show...
+-139.69479856802386, -141.20007735537968, positive, negative, wrong
+No.278 Half-baked and UNFUNNY episode to a so far perfect season makes viewers disappointed
+-174.11496336402587, -178.8566677056377, positive, negative, wrong
+No.279 Another piece of garbage
+-96.87981125007725, -99.8260988772966, positive, negative, wrong
+No.280 Jumped the shark
+-104.00890794510084, -103.30106526936206, negative, negative, right
+No.281 Not good
+-200.25529163575345, -203.2604836808746, positive, negative, wrong
+No.282 I'm Baffled By These Reviews?
+-70.74297861567459, -71.73664149784508, positive, negative, wrong
+No.283 Maybe my least favorite episode
+-277.2997369451251, -282.28201231978784, positive, negative, wrong
+No.284 Lacking something
+-40.463606597441604, -39.65441150230962, negative, negative, right
+No.285 Where is the R&M creativity style?
+-237.76288930371945, -237.53286288360334, negative, negative, right
+No.286 Not bad...not Great...A typical Beth Episode
+-101.43607843634848, -103.5049621269341, positive, negative, wrong
+No.287 Is that it?
+-141.10780065113326, -146.5822933821934, positive, negative, wrong
+No.288 Rear end.
+-318.2801632008331, -326.1747715666701, positive, negative, wrong
+No.289 Started to watch
+-30.72831583959219, -31.231848687079705, positive, negative, wrong
+No.290 Need morty to be his morty
+-128.82132017823267, -137.10897416667913, positive, negative, wrong
+No.291 Why?
+-161.66664613527524, -164.51941499230725, positive, negative, wrong
+No.292 The only truly disappointing episode so far
+-84.76605487846173, -83.21360723908498, negative, negative, right
+No.293 Better than previous episodes, but still lacking.
+-287.1757528050846, -291.23993055559725, positive, negative, wrong
+No.294 The ABC's of making a bad episode
+-377.3106854295493, -381.45192409296504, positive, negative, wrong
+No.295 So far season 4 isnt what we were expecting
+-238.57556733916823, -239.4135565362012, positive, negative, wrong
+No.296 As the rest of this season, a terrible episode
+-82.74750351968095, -84.29502807791636, positive, negative, wrong
+No.297 Trying too hard
+-142.41053358454081, -143.06687046648963, positive, negative, wrong
+No.298 Nah
+-20.499741219451394, -22.18705876184944, positive, negative, wrong
+No.299 Could be better
+-384.73093943391893, -390.183056809447, positive, negative, wrong
+No.300 Subpar
+-157.96526070700799, -162.8582164694438, positive, negative, wrong
+No.301 Bad episode
+-96.89252971449454, -98.10116738100275, positive, negative, wrong
+No.302 Meh
+-56.48864254242534, -55.84180524389532, negative, negative, right
+No.303 A spectacular new low.
+-443.1713848970274, -440.67886552626493, negative, negative, right
+No.304 SEASON FOUR HAS NO RE-WATCH VALUE......
+-82.48225197974233, -79.76187362400283, negative, negative, right
+No.305 Not so funny any more
+-26.97051128502964, -28.641780200309253, positive, negative, wrong
+No.306 Still not rick and morty level
+-34.991890909831106, -36.4602491226577, positive, negative, wrong
+No.307 A decent standalone R&M, yet...
+-287.06181592781644, -286.3902506604268, negative, negative, right
+No.308 One of season 2's weaker moments
+-123.61214437076303, -127.64199032546901, positive, negative, wrong
+No.309 Season four had lost its magic.
+-124.23676121827418, -123.9826081204957, negative, negative, right
+No.310 Cringey, and just bad full stop
+-49.98824723548217, -50.134762962470376, positive, negative, wrong
+No.311 The worst Rick and Morty Episode can still be Entertaining.
+-188.02072725952172, -188.55199632772295, positive, negative, wrong
+No.312 Nowhere close to horrible, but still pretty mediocre.
+-310.8651428964679, -313.49019486672427, positive, negative, wrong
+No.313 This is the first truly bad episode of Rick and Morty, and it hits really hard, broh. How could you hate these nightmares in Seahorse Seashell Party but love them here?
+-1751.7770056164168, -1758.1001647986077, positive, negative, wrong
+No.314 Did not like it
+-58.22090669117603, -59.12421002831268, positive, negative, wrong
+No.315 Going down
+-98.74639319712527, -98.34864954555636, negative, negative, right
+No.316 Lazy
+-84.57834262119489, -83.80200310532318, negative, negative, right
+No.317 Very funny and creative, something still feels missing
+-75.46876607231218, -75.57828262638976, positive, negative, wrong
+No.318 Not a fan
+-63.031378838091534, -65.2542637697345, positive, negative, wrong
+The prediction accuracy is: 80.25078369905955%

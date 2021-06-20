@@ -70,6 +70,25 @@ class Classifier:
 
         return pd.DataFrame(model), len(train_pos), len(train_neg), test_df
 
+    def modify_smooth(self, train_model: pd.DataFrame, smooth=1):
+        
+        vocab_size = train_model.shape[0]
+        pos_count = train_model["positive"].sum()
+        neg_count = train_model["negative"].sum()
+
+        train_model["positive_prob"] = train_model.apply(lambda row: ((row.positive+ smooth) / (vocab_size + pos_count)), axis=1)
+        train_model["negative_prob"] = train_model.apply(lambda row: ((row.negative + smooth) / (vocab_size + neg_count)), axis=1)
+
+        # for index, row in train_model.iteritems():
+            
+
+
+        #     row["positive_prob"] = (row["positive"] + smooth) / (vocab_size + pos_count)
+        #     row["negative_prob"] = (row["negative"] + smooth) / (vocab_size + neg_count)
+        
+        return train_model
+
+
     def model_to_file(self, model: pd.DataFrame, file: str):
 
         model_file = open(file, "w", encoding="utf-8")
