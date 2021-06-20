@@ -18,5 +18,7 @@ Classifies the user reviews of a show on Imdb. The project scrapes user reviews 
     .build_vocabulary(smooth): builds the vocabulary and partitions model into training and test sets. Smooth value is used to modify the smoothing value when build_vocabulary calculates probabilities.
 
     .evaluate(train, test): evaluates training set against the test set. Returns a pandas dataframe that contains prediction results 
-    
-      
+
+### Running the program
+
+Split into different tasks

@@ -38,6 +38,7 @@ class Classifier:
             "negative_prob": []
         }
 
+        #Count Frequencies
         for index, row in train_df.iterrows():
             for word in row["review"].split(" "):
                 
@@ -86,7 +87,7 @@ class Classifier:
         model_file.close()
 
     def results_to_file(self, results: pd.DataFrame, file):
-        model_file = open(file, "w", encoding="utf-8")
+        results_file = open(file, "w", encoding="utf-8")
 
         for index, row in results.iterrows():
 
@@ -97,9 +98,13 @@ class Classifier:
             actual_result = row["actual_result"]
             outcome = "right" if row["prediction"] else "wrong"
 
-            model_file.write(f"No.{index} {title}\n{pos_result}, {neg_result}, {result}, {actual_result}, {outcome}\n")
+            results_file.write(f"No.{index} {title}\n{pos_result}, {neg_result}, {result}, {actual_result}, {outcome}\n")
         
-        model_file.close()
+        correct_results = len(results[results["prediction"] == True])
+        accuracy = (correct_results / len(results["prediction"]))*100
+        results_file.write(f"The prediction accuracy is: {accuracy}%")
+        
+        results_file.close()
 
     def evaluate(self, train_model: pd.DataFrame, test_set: pd.DataFrame, pos_total, neg_total):
 
@@ -123,7 +128,7 @@ class Classifier:
                 if word in train_model["word"].values:
                     
                     _word = train_model[train_model["word"] == word]
-                    
+
                     word_pos = _word["positive_prob"].values[0]
                     word_neg = _word["negative_prob"].values[0]
 
