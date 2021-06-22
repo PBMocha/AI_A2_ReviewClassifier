@@ -3,6 +3,8 @@ from service import imdb_service
 from service.imdb_service import *
 from math import log10
 import re
+import numpy as np
+
 
 class Classifier:
 
@@ -82,6 +84,19 @@ class Classifier:
         
         return train_model
 
+    def modify_length(self, train_model: pd.DataFrame, length):
+        for index, word in enumerate(train_model["word"]):
+            if (len(word) <= length) & (length <= 4):
+                print(train_model.loc[[index]])
+                train_model = train_model.drop(index, axis=0)
+                
+
+            elif (len(word) >= length) & (length >= 9):
+                print(train_model.loc[[index]])
+                train_model = train_model.drop(index, axis =0)
+                
+
+        return train_model
 
     def model_to_file(self, model: pd.DataFrame, file: str):
 
