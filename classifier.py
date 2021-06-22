@@ -88,8 +88,8 @@ class Classifier:
         
         indexes_to_drop=[]
         if (length <= 4):
-            for index, word in enumerate(train_model["word"]):
-                if (len(word) <= length):
+            for index, row in train_model.iterrows():
+                if (len(row["word"]) <= length):
                     print(train_model.loc[[index]])
                     indexes_to_drop.append(index)
                     #train_model = train_model.drop(index, axis=0)
@@ -97,14 +97,14 @@ class Classifier:
                 
 
         elif (length >= 9):
-            for index, word in enumerate(train_model["word"]):
+            for index, row in train_model.iterrows():
                 print(train_model.loc[[index]])
-                if (len(word) >= length):
+                if (len(row["word"]) >= length):
                     indexes_to_drop.append(index)
                     #train_model = train_model.drop(index, axis=0)
                     #train_model = train_model.drop(index =word)
         
-        train_model = train_model.drop(train_model.index[indexes_to_drop], inplace= True)
+        train_model = train_model.drop(train_model.index[indexes_to_drop], inplace= False)
         return train_model
 
     def model_to_file(self, model: pd.DataFrame, file: str):
