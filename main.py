@@ -4,7 +4,7 @@ model = Classifier()
 
 train_model, pos_total, neg_total, test_set = model.build_vocabulary()
 
-model.model_to_file(train_model)
+model.model_to_file(train_model, 'model.txt')
 results = model.evaluate(train_model, test_set, pos_total, neg_total)
 
 correct_results = len(results[results["prediction"] == True])

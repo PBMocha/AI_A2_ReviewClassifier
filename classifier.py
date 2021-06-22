@@ -2,6 +2,7 @@ from typing import Dict
 from service import imdb_service
 from service.imdb_service import *
 from math import log10
+import re
 
 class Classifier:
 
@@ -41,12 +42,12 @@ class Classifier:
         #Count Frequencies
         for index, row in train_df.iterrows():
             for word in row["review"].split(" "):
-                
-                if word in stop_words:
-                    continue
 
-                frequencies.setdefault(word, {"positive": 0, "negative": 0})
-                frequencies[word][row["rating"]] += 1
+                if word not in stop_words:
+                    frequencies.setdefault(word, {"positive": 0, "negative": 0})
+                    frequencies[word][row["rating"]] += 1
+
+                
 
         words_in_pos = 0
         words_in_neg = 0
@@ -78,13 +79,6 @@ class Classifier:
 
         train_model["positive_prob"] = train_model.apply(lambda row: ((row.positive+ smooth) / (vocab_size + pos_count)), axis=1)
         train_model["negative_prob"] = train_model.apply(lambda row: ((row.negative + smooth) / (vocab_size + neg_count)), axis=1)
-
-        # for index, row in train_model.iteritems():
-            
-
-
-        #     row["positive_prob"] = (row["positive"] + smooth) / (vocab_size + pos_count)
-        #     row["negative_prob"] = (row["negative"] + smooth) / (vocab_size + neg_count)
         
         return train_model
 

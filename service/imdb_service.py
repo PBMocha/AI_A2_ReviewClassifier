@@ -9,6 +9,7 @@ from bs4 import BeautifulSoup
 from bs4.element import ResultSet
 from requests import get
 import pandas as pd
+import re
 
 class ImdbService():
     root_url = "https://www.imdb.com"
@@ -77,7 +78,8 @@ class ImdbService():
                     continue
                 rating = int(review_block.find('span').text.strip().split("/")[0])
                 #print(rating)
-                review_text = review.find('div', class_='text show-more__control').text.lower().replace(".", "")
+                review_text = review.find('div', class_='text show-more__control').text.lower()
+                review_text = re.sub(r'[\t\n\.]', '', review_text)
                 review_label = 'negative'
 
                 review_title = review.find('a', class_="title").text.strip()
