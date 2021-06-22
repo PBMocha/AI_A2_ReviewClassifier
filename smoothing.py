@@ -26,6 +26,9 @@ def smoothing():
             model.model_to_file(train_model, "smooth-model.txt")
             model.results_to_file(results, "smooth-result.txt")
 
+    plt.title("Smoothing Classifier Performance")
+    plt.xlabel("Smoothing Value")
+    plt.ylabel("Accuracy")
     plt.plot(smooth_values, accuracies)
     plt.show()
 

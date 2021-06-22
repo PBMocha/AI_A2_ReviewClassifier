@@ -23,7 +23,11 @@ def length():
         #model.model_to_file(train_model, "length-model.txt")
         #model.results_to_file(results, "length-result.txt")
 
-    #plt.plot(length_values, accuracies)
-    #plt.show()
+    # plt.title("Length Classifier Performance")
+    # plt.xlabel("Length")
+    # plt.ylabel("Accuracy")
+    # plt.plot(length_values, accuracies)
+    # plt.show()
+
 
 length()
