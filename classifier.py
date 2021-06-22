@@ -85,17 +85,26 @@ class Classifier:
         return train_model
 
     def modify_length(self, train_model: pd.DataFrame, length):
-        for index, word in enumerate(train_model["word"]):
-            if (len(word) <= length) & (length <= 4):
-                print(train_model.loc[[index]])
-                train_model = train_model.drop(index, axis=0)
+        
+        indexes_to_drop=[]
+        if (length <= 4):
+            for index, word in enumerate(train_model["word"]):
+                if (len(word) <= length):
+                    print(train_model.loc[[index]])
+                    indexes_to_drop.append(index)
+                    #train_model = train_model.drop(index, axis=0)
+                    #train_model = train_model.drop(index= word)
                 
 
-            elif (len(word) >= length) & (length >= 9):
+        elif (length >= 9):
+            for index, word in enumerate(train_model["word"]):
                 print(train_model.loc[[index]])
-                train_model = train_model.drop(index, axis =0)
-                
-
+                if (len(word) >= length):
+                    indexes_to_drop.append(index)
+                    #train_model = train_model.drop(index, axis=0)
+                    #train_model = train_model.drop(index =word)
+        
+        train_model = train_model.drop(train_model.index[indexes_to_drop], inplace= True)
         return train_model
 
     def model_to_file(self, model: pd.DataFrame, file: str):
