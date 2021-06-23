@@ -122,8 +122,8 @@ class Classifier:
     def remove_to_file(self, words, file: str):
         remove_file = open(file, "w", encoding="utf-8")
 
-        for index, word in enumerate(words):
-            remove_file.write(f"{index} {word}\n")
+        for word in words:
+            remove_file.write(f"{word}\n")
 
         remove_file.close()
 
