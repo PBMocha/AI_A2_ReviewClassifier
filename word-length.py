@@ -13,7 +13,7 @@ def length():
 
     #print(train_model)
     for length in length_values:
-        print(length)
+        #print(length)
         print(train_model.shape)
         train_model = model.modify_length(train_model, length)
 
@@ -21,7 +21,7 @@ def length():
 
         correct_results = len(results[results["prediction"] == True])
         accuracy = (correct_results / len(results["prediction"]))*100
-        print(f"smoothing: {length}\tAccuracy: {accuracy}")
+        print(f"length: {length}\tAccuracy: {accuracy}")
         accuracies.append(accuracy)
       
         model.model_to_file(train_model, "length-model.txt")
