@@ -27,6 +27,7 @@ class Classifier:
         test_df = (positive_df.iloc[pos_off:]).append(negative_df.iloc[neg_offset:])
 
         frequencies = {}
+        removed_words = []
 
         stop_word_file = open("stopword.txt", "r")
         stop_words = [word.strip() for word in stop_word_file.readlines()]
@@ -44,12 +45,16 @@ class Classifier:
         #Count Frequencies
         for index, row in train_df.iterrows():
             for word in row["review"].split(" "):
-
+                
+                if word in stop_words:
+                    removed_words.append(word)
                 if word not in stop_words:
                     frequencies.setdefault(word, {"positive": 0, "negative": 0})
                     frequencies[word][row["rating"]] += 1
 
-                
+
+        #write removed workds to remove.txt
+        self.remove_to_file(removed_words, "remove.txt")       
 
         words_in_pos = 0
         words_in_neg = 0
@@ -73,6 +78,7 @@ class Classifier:
 
         return pd.DataFrame(model), len(train_pos), len(train_neg), test_df
 
+    
     def modify_smooth(self, train_model: pd.DataFrame, smooth=1):
         
         vocab_size = train_model.shape[0]
@@ -112,6 +118,14 @@ class Classifier:
         train_model = train_model.drop(train_model.index[indexes_to_drop])
         train_model.reset_index(drop=True, inplace=True)
         return train_model
+
+    def remove_to_file(self, words, file: str):
+        remove_file = open(file, "w", encoding="utf-8")
+
+        for index, word in enumerate(words):
+            remove_file.write(f"{index} {word}\n")
+
+        remove_file.close()
 
     def model_to_file(self, model: pd.DataFrame, file: str):
 
