@@ -14,6 +14,7 @@ def length():
     #print(train_model)
     for length in length_values:
         print(length)
+        print(train_model.shape)
         train_model = model.modify_length(train_model, length)
 
         # results = model.evaluate(train_model, test_set, pos_total, neg_total)
