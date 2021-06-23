@@ -22,6 +22,8 @@ def smoothing():
         print(f"smoothing: {s_val}\tAccuracy: {accuracy}")
         accuracies.append(accuracy)
 
+        if s_val == 1:
+            model.results_to_file(results, "result.txt")
         if s_val == 1.6:
             model.model_to_file(train_model, "smooth-model.txt")
             model.results_to_file(results, "smooth-result.txt")
