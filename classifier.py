@@ -91,8 +91,8 @@ class Classifier:
         pos_count = train_model["positive"].sum()
         neg_count = train_model["negative"].sum()
 
-        train_model["positive_prob"] = train_model.apply(lambda row: ((row.positive+ smooth) / (vocab_size + pos_count)), axis=1)
-        train_model["negative_prob"] = train_model.apply(lambda row: ((row.negative + smooth) / (vocab_size + neg_count)), axis=1)
+        train_model["positive_prob"] = train_model.apply(lambda row: ((row.positive+ smooth) / (vocab_size + pos_count*smooth)), axis=1)
+        train_model["negative_prob"] = train_model.apply(lambda row: ((row.negative + smooth) / (vocab_size + neg_count*smooth)), axis=1)
         
         return train_model
 
