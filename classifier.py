@@ -1,7 +1,7 @@
 # -------------------------------------------------------
 # Assignment 2
 # Written by Joshua Parial-Bolusan (40063663) Jeffrey Lam(40090989)
-# For COMP 472 Section (your lab section) – Summer 2021
+# For COMP 472 Section AA – Summer 2021
 # --------------------------------------------------------
 
 from typing import Dict
@@ -14,12 +14,12 @@ import numpy as np
 
 class Classifier:
 
-    def __init__(self):
-        self.imdb = ImdbService()
+    def __init__(self, reviews_df):
+        self.reviews_df = reviews_df
         
     def build_vocabulary(self, smooth=1):
 
-        reviews_df = self.imdb.reviews_df
+        reviews_df = self.reviews_df
         positive_df = reviews_df[reviews_df["rating"] == "positive"]
         negative_df = reviews_df[reviews_df["rating"] == "negative"]
 
@@ -77,10 +77,10 @@ class Classifier:
 
             model["word"].append(word)
             model["positive"].append(pos_freq)
-            model["positive_prob"].append((pos_freq + smooth) / (vocab_size + words_in_pos))
+            model["positive_prob"].append((pos_freq + smooth) / (vocab_size + words_in_pos*smooth))
 
             model["negative"].append(neg_freq)
-            model["negative_prob"].append((neg_freq + smooth) / (vocab_size + words_in_neg))
+            model["negative_prob"].append((neg_freq + smooth) / (vocab_size + words_in_neg*smooth))
 
         return pd.DataFrame(model), len(train_pos), len(train_neg), test_df
 
