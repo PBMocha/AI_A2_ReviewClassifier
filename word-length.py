@@ -23,8 +23,6 @@ def length():
         accuracy = (correct_results / len(results["prediction"]))*100
         print(f"smoothing: {length}\tAccuracy: {accuracy}")
         accuracies.append(accuracy)
-
-    #print(train_model)
       
         model.model_to_file(train_model, "length-model.txt")
         model.results_to_file(results, "length-result.txt")

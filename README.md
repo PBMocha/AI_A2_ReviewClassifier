@@ -15,10 +15,16 @@ Classifies the user reviews of a show on Imdb. The project scrapes user reviews 
 
     Classifier(): responsible for building the vocabulary and evaluating the model
 
-    .build_vocabulary(smooth): builds the vocabulary and partitions model into training and test sets. Smooth value is used to modify the smoothing value when build_vocabulary calculates probabilities.
+    .build_vocabulary(smooth): builds the vocabulary and partitions model into training and test sets. Smooth value is used to modify the smoothing value when build_vocabulary calculates probabilities. Returns the training set (vocab), test set and the frequency of words in positive and negative reviews
 
     .evaluate(train, test): evaluates training set against the test set. Returns a pandas dataframe that contains prediction results 
 
 ### Running the program
 
-Split into different tasks
+The project is split into different tasks
+
+    Run 'python main.py' to run the standard classifier
+
+    Run 'python smooth.py' to execute task 2.1, to analysis the accuracy and smoothing relationship
+
+    Run 'python word-length.py' to execute task 2.3, to analyse the word length and accuracy relationship
