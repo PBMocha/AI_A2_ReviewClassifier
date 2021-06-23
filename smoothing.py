@@ -6,7 +6,7 @@ import numpy as np
 def smoothing():
     model = Classifier()
 
-    smooth_values = np.arange(1, 2.0, 0.2)
+    smooth_values = np.arange(1, 2.01, 0.2)
     accuracies = []
 
     train_model, pos_total, neg_total, test_set = model.build_vocabulary()

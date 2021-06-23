@@ -1,3 +1,9 @@
+# -------------------------------------------------------
+# Assignment 2
+# Written by Joshua Parial-Bolusan (40063663) Jeffrey Lam(40090989)
+# For COMP 472 Section (your lab section) – Summer 2021
+# --------------------------------------------------------
+
 from typing import Dict
 from service import imdb_service
 from service.imdb_service import *
