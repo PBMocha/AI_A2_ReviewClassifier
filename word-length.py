@@ -17,23 +17,23 @@ def length():
         print(train_model.shape)
         train_model = model.modify_length(train_model, length)
 
-        # results = model.evaluate(train_model, test_set, pos_total, neg_total)
+        results = model.evaluate(train_model, test_set, pos_total, neg_total)
 
-        # correct_results = len(results[results["prediction"] == True])
-        # accuracy = (correct_results / len(results["prediction"]))*100
-        # print(f"smoothing: {length}\tAccuracy: {accuracy}")
-        # accuracies.append(accuracy)
+        correct_results = len(results[results["prediction"] == True])
+        accuracy = (correct_results / len(results["prediction"]))*100
+        print(f"smoothing: {length}\tAccuracy: {accuracy}")
+        accuracies.append(accuracy)
 
     #print(train_model)
       
-        #model.model_to_file(train_model, "length-model.txt")
-        #model.results_to_file(results, "length-result.txt")
+        model.model_to_file(train_model, "length-model.txt")
+        model.results_to_file(results, "length-result.txt")
 
-    # plt.title("Length Classifier Performance")
-    # plt.xlabel("Length")
-    # plt.ylabel("Accuracy")
-    # plt.plot(length_values, accuracies)
-    # plt.show()
+    plt.title("Length Classifier Performance")
+    plt.xlabel("Length")
+    plt.ylabel("Accuracy")
+    plt.plot(length_values, accuracies)
+    plt.show()
 
 
 length()
