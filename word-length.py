@@ -1,10 +1,20 @@
+# -------------------------------------------------------
+# Assignment 2
+# Written by Joshua Parial-Bolusan (40063663) Jeffrey Lam(40090989)
+# For COMP 472 Section AA – Summer 2021
+# --------------------------------------------------------
+
 from classifier import * 
 import matplotlib.pyplot as plt
 import numpy as np
+from service.imdb_service import ImdbService
 
 #Scrape and store information
 def length():
-    model = Classifier()
+
+    imdb = ImdbService.from_web()
+
+    model = Classifier(imdb.reviews_df)
 
     length_values = np.array([2, 4, 9])
     accuracies = []

@@ -1,6 +1,21 @@
-from classifier import * 
+# -------------------------------------------------------
+# Assignment 2
+# Written by Joshua Parial-Bolusan (40063663) Jeffrey Lam(40090989)
+# For COMP 472 Section (your lab section) – Summer 2021
+# --------------------------------------------------------
 
-model = Classifier()
+from classifier import * 
+from service.imdb_service import ImdbService
+
+#Scrape Site
+imdb = ImdbService.from_web()
+imdb.toCsv()
+
+#Uncomment bottom to read from csv
+#imdb = ImdbService.from_csv("data.csv")
+
+
+model = Classifier(imdb.reviews_df)
 
 train_model, pos_total, neg_total, test_set = model.build_vocabulary()
 
